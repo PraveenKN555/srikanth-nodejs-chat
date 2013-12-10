@@ -1,0 +1,6 @@
+# As a fresher i had gone through this github in a short period of time.
+# In github it enhances the understanding of latest versions and very important is that it provide cross platform execution of code.
+# Someone can contribute their vision about our project, it’s the most interactive way to work on a project.
+# With respect to Sails frame work, its completely new to me and as per my knowledge and some of some how I had done with the chat app.
+# With respect to Socket.io package in java it is very helpful to communication with the various ports.
+# Finally ,,,,,thanks for giving an opportunity to learn new thing.
